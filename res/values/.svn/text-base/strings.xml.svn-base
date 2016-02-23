@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remote</string>
+
+    <string name="search_lan">Search LAN</string>
+    <string name="switch_router">Network On/Off</string>
+    <string name="toggle_debug_logging">Toggle debug logging</string>
+
+    <string name="searching_lan">Searching LAN for UPnP devices...</string>
+    <string name="enabling_router">Enabling network ...</string>
+    <string name="disabling_router">Disabling network ...</string>
+    
+    <string name="registering_demo_device">Registering UPnP demo device...</string>
+    <string name="create_demo_failed">Creating of demo device failed, check the log!</string>
+
+    <string name="scan_devices">Scanning for UPnP Devices...</string>
+</resources>
